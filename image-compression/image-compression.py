@@ -1,3 +1,7 @@
+# IMAGE COMPRESSION USING KMEANS ALGORITHM 
+# BY @HOANGNDST 2020 AKA @ARCH-TECHS
+
+
 from numpy.core.numeric import convolve
 from pygame import display, image, mouse, surfarray
 from pygame.constants import MOUSEBUTTONDOWN
