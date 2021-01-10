@@ -197,6 +197,7 @@ while running:
             # TYPE K
             if 666 < mouse_x < 666 + 150 and 500 < mouse_y < 540:
                 K_in = True
+                convert = False
             else:
                 K_in = False
             # INPUT K BUTTON
