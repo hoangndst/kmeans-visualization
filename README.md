@@ -12,8 +12,6 @@
 <a href = "https://github.com/hoangndst/kmeans-img-compression/wiki" target = "_blank"><p>Check out WIKI</p></a>
 
 2020 @ arch-techs
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
