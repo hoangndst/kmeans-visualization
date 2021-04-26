@@ -288,7 +288,7 @@ while running:
                     b_img_in = int((500 / width) * height)
                 img_in_y_pos = 50 + 400 - b_img_in
                 img2_y_pos = img_in_y_pos
-            if height > width:
+            if height >= width:
                 b_img_in = 400
                 if height < 400:
                     a_img_in = int((height / 400) * width)
