@@ -5,8 +5,6 @@
 
 ## Image Compression with Kmeans Algorithm
 
-0.25x
-
 ![IMG_COM](img/img_compress.gif)
 
 <a href = "https://github.com/hoangndst/kmeans-img-compression/wiki" target = "_blank"><p>Check out WIKI</p></a>
