@@ -1,13 +1,15 @@
 # Preview
 ## Kmeans Algorithm GUI
+
 <p align="center">
   <img src="img/kmeans.gif">
 </p>
-![GUI Tool](img/kmeans.gif)
 
 ## Image Compression with Kmeans Algorithm
 
-![IMG_COM](img/img_compress.gif)
+<p align="center">      
+  <img src="img/img_compress.gif">
+</p>
 
 <a href = "https://github.com/hoangndst/kmeans-img-compression/wiki" target = "_blank"><p>Check out WIKI</p></a>
 
