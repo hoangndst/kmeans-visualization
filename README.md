@@ -1,6 +1,6 @@
 # Preview
 ## Kmeans Algorithm GUI
-
+<div style="text-align:center"><img src="img/kmeans.gif" /></div>
 ![GUI Tool](img/kmeans.gif)
 
 ## Image Compression with Kmeans Algorithm
