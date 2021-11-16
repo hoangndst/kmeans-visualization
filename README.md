@@ -1,24 +1,31 @@
-# Preview
-## Kmeans Algorithm GUI
+## Kmeans Algorithm Visualization and Application
+### For more information, please visit:
 
-<p align="center">
-  <img src="img/kmeans.gif">
-</p>
+- [Kmeans Algorithm Wikipedia](https://en.wikipedia.org/wiki/K-means_clustering)
+- [Kmeans Algorithm Explained](https://www.youtube.com/watch?v=4b5d3muPQmA&t=117s)
+- [Vietnamese Kmeans Algorithm Explained](https://machinelearningcoban.com/2017/01/01/kmeans/)
 
-## Image Compression with Kmeans Algorithm
+This is a visualization of Kmeans algorithm. Help people to understand the algorithm and apply it to their own data.
 
-<p align="center">      
-  <img src="img/img_compress.gif">
-</p>
+Just my first time to use kmeans algorithm and apply it to compress images. I hope it will be useful for you.
 
-<a href = "https://github.com/hoangndst/kmeans-img-compression/wiki" target = "_blank"><p>Check out WIKI</p></a>
+### For C++ version, you can check out the code: 
+- [C++ version](https://github.com/hoangndst/kmeans-visualization)
+- [Report of Kmeans Algorithm](/report/report.pdf)
 
-2020 @ arch-techs
+### Preview
+### Kmeans Algorithm Visualization
+![GUI Tool](img/kmeans.gif)
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+### Image Compression
+![GUI Tool](img/img_compress.gif)
 
-Please make sure to update tests as appropriate.
+### Library
+ - [Pygame](https://www.pygame.org/)
+ - [Scikit-learn](https://scikit-learn.org/stable/)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### Contributors
+- [@hoangndst](https://www.github.com/hoangndst)
+
+### License
+- [MIT](https://choosealicense.com/licenses/mit/)
